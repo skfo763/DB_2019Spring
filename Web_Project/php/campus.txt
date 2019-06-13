@@ -1,0 +1,2 @@
+<option>인문사회과학캠퍼스</option>
+<option>자연과학캠퍼스</option>
